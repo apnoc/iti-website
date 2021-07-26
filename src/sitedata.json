@@ -1,0 +1,187 @@
+{
+    "Header":[{
+        "img1":[{
+            "imgsrc":"/images/bannerlogo.png",
+            "imgalt":"logo1"
+        }],
+        "description": [{
+            "title":"Government Of Andhra Pradesh"},
+           { "title":" Department of Employment and Training"},
+            {"title":"Industrial Training Institutes"
+        }],
+        "img2":[{
+            "imgsrc":"/images/bannerlogo1.png",
+            "imgalt":"logo1"
+        }]
+    }],
+    "menu1":[{
+        "section1":[{
+            "carousel1":[{
+            "img":"/images/carouselimage1.jpg",
+            "imgalt":"First slide"
+        }],
+         "carousel2":[{
+            "img":"/images/carouselimage2.jpg",
+            "imgalt":"Second slide"
+        }]}],
+        "section2":[{
+            "notification":"Application Submission for Admissions Phase-5 will close on 11-02-2021 at 5:00 PM",   
+            "title" : "About ITI ",
+            "paragraph":"Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."  ,
+            "imgsrc":"/images/cardimg-1.jpg",
+            "imgalt":"image1" 
+        }],
+        "section3":[{
+            "title":"Schemes of ITI",
+            "card1": [{
+                "imgsrc": "/images/cardimg-1.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+                "title": " Craftsmen Training",
+                "button": "View More"
+            },
+            {
+                "imgsrc": "/images/cardimg-2.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+                "title": "Apprenticeship Training",
+                "button": "View More"
+            },
+            {
+                "imgsrc": "/images/cardimg-4.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+                "title": "Skill Development",
+                "button":"View More"
+            }],
+            "card2": [{
+              "imgsrc": "/images/cardimg-7.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+              "title": " Craftsmen Training",
+              "button": "View More"
+          },
+          {
+              "imgsrc": "/images/cardimg-5.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+              "title": "Apprenticeship Training",
+              "button": "View More"
+          },
+          {
+              "imgsrc": "/images/cardimg-6.jpg",
+              "imgalt": "img-1 ",
+              "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+              "title": "Skill Development",
+              "button":"View More"
+          }]
+        }]
+    }],
+    "menu2":[{
+        "title":"Department",
+        "paragraph":[
+            {"p":"Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."   },
+            {"p":"The Directorate of Training,  is working under the Department of Labour & Skills , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of Skills, Government of India. Subsequently the administration of Industrial Training Institutes (ITI) under the Craftsmen Training Schemes has been transferred to the State government."},
+            {"p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable Skills etc which is transforming the skill development in the state of Andhra Pradesh."},
+            {"p":"Industrial Training Department (ITD), Andhra Pradesh functions with the major objectives of providing Skill and Apprenticeship Training to the youths in Andhra Pradesh State. To achieve these objectives the ITD runs a variety of skill training programmes in Industrial Training Institutes in the State. It also registers the youth for Apprenticeship training across various establishments in the state."   },
+            {"p":"The Directorate of Training,  is working under the Department of Labour & Skills , Government of Andhra Pradesh. It was formed in Andhra Pradesh State in 1970 by amalgamation of the Employment Wing, functioning under the Labour Commissionerate, and the Vocational Training Scheme under the Directorate of Technical Education. In the beginning, Industrial Training Institutes were functioning under direct control and supervision of the Director General of  Training (DGT), New Delhi, Ministry of Skills, Government of India. Subsequently the administration of Industrial Training Institutes (ITI) under the Craftsmen Training Schemes has been transferred to the State government."},
+            {"p": "The Industrial Department is the agency for implementation of Craftsman training Scheme (CTS) & Apprenticeship Training Scheme (ATS), major skill up- gradation schemes of the Director General of  Training (DGT) in the state. A host of new schemes are being implemented by the department throughout the state namely Centres of Excellence, PPP, Modular Employable Skills etc which is transforming the skill development in the state of Andhra Pradesh."}
+             ]
+    }],
+    "menu3":[{
+        "title":"",
+        "apiurl":""
+    }],
+    "menu4":[{
+        "section1":[{
+            "title":"Schemes of ITI",
+            "card": [{
+                "imgsrc": "/images/cardimg-1.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.",
+                "title": " Craftsmen Training",
+                "button": "View More"
+            },
+            {
+                "imgsrc": "/images/cardimg-2.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State. ",
+                "title": "Apprenticeship Training",
+                "button": "View More"
+            },
+            {
+                "imgsrc": "/images/cardimg-4.jpg",
+                "imgalt": "img-1 ",
+                "description": "Andhra Pradesh functions with the major objectives of providing Skills and Apprenticeship Training to the youths training across various establishments in Andhra Pradesh State.  ",
+                "title": "Skill Development",
+                "button":"View More"
+            }]
+        }]
+     }],
+    "menu5":[{
+        "submenu1":[{
+            "title":"",
+            "subtitle":""
+        }]
+      }],
+    "menu6":[{
+        "submenu1":[{
+
+        }],
+        "submenu2":[{
+
+            }],
+        "submenu3":[{
+
+        }],
+        "submenu4":[{
+
+            }]
+    }],
+    "menu7":[{
+
+    }],
+    "menu8":[{
+        "notification":" Application Form for Admission into the Industrial Training Institute for the session 2020 for Phase-4 "
+    }],
+  
+    "footer":[{
+        "header": " Industrial Training Institutes",
+        "subheader":"ITI © 2020",
+        "socialLinks": [{
+            "icon":"social-icon-link facebook",
+            "link":"/",
+            "arialabel":"Facebook",
+            "target":"_blank",
+            "iconlink":"fa fa-facebook-f"
+        },
+        {
+            "icon":"social-icon-link instagram",
+            "link":"/",
+            "arialabel":"Instagram",
+            "target":"_blank",
+            "iconlink":"fa fa-instagram"
+        },
+        {
+            "icon":"social-icon-link youtube",
+            "link":"/",
+            "arialabel":"Youtube",
+            "target":"_blank",
+            "iconlink":"fa fa-youtube"
+        },
+        {
+            "icon":"social-icon-link twitter",
+            "link":"/",
+            "arialabel":"Twitter",
+            "target":"_blank",
+            "iconlink":"fa fa-twitter"
+        },
+        {
+            "icon":"social-icon-link linkedin",
+            "link":"/",
+            "arialabel":"Linkedin",
+            "target":"_blank",
+            "iconlink":"fa fa-linkedin"
+        }]
+    }]
+}
