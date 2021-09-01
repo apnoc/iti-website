@@ -1,33 +1,9 @@
-.box {
-    display: flex;
-    justify-content:  space-between;
-    margin:1rem;
-  }
+
+.navdetails {
+  background: #f8f8f8;
+  border-color: #e6e6e6;
+  border-bottom: 1px solid #c2c0c1;
   
-.Banner{
-    margin: 1.5rem  5rem !important;
-}
-
-.navbar{
-   background-image: linear-gradient( #26774d, #42ba7b);   
-  font-weight: bolder;
-}
-
-
-.navbar-light .navbar-nav .nav-link {
-  color: #fff ! important;
-  margin: 0.2rem 0.1rem ;
-  
-}
-
-.link{
-  color: #fff ! important;
-}
-
-.link:hover{
-  color:#000 !important; 
-  text-decoration: none;
-  border-radius: 5%;
 }
 
 .selected {
@@ -37,9 +13,41 @@
   justify-content: center;
 }
 
-.selected h4{
+.selected h4 {
   font-style: bold;
   font-weight: 400;
 }
 
+.header1 {
+  background-color: rgb(252, 1, 1);
+  transform: skew(-20deg);
+}
 
+.header {
+  background-color: rgb(69, 61, 61);
+}
+
+.navheader {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 7px 7px;
+}
+
+.links li a {
+  margin: 0px 12px;
+  text-decoration: none;
+  color: rgba(0, 144, 72, 0.9) !important;
+  font-size: 100%;
+  text-align: center;
+}
+
+.nav-link-dropdown {
+  padding: 5px;
+  display: block;
+  width: 200px;
+}
+
+.links li a:hover {
+  color: rgb(250, 250, 250) !important;
+  background-color: #009048e6;
+}

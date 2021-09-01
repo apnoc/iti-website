@@ -1,0 +1,88 @@
+.press__releases {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.content__pullleft {
+  float: left;
+  padding: 0 30px 15px 0;
+  margin: 0;
+}
+
+imge {
+  width: 6000px;
+  height: 900px;
+  vertical-align: middle;
+  border: 0;
+}
+
+.page__heading {
+  font: 3.5em/1.3 ;
+  color: #000;
+  margin: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #999;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.divider__mainlist {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  /* width: 569px; */
+  margin-bottom: 20px;
+}
+
+.divider__mainlist .divider__listinner {
+  width: 100%;
+  border-bottom: 1px solid #999;
+}
+
+.divider__mainlist .divider__list {
+  padding: 15px 0;
+}
+
+.pull-right {
+	float: right !important;
+}
+
+ul, ol {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+::before, ::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.divider__list li:first-child {
+  padding-left: 0;
+}
+
+.divider__list li {
+  font: 14px/17px "Lato-Medium";
+  float: left;
+  color: #444;
+  padding: 0 8px;
+  position: relative;
+  letter-spacing: 0.5px;
+}
+
+.clearfix::before, .clearfix::after {
+	content: "";
+	display: table;
+}
+
+.clearfix::after {
+	clear: both;
+}
+

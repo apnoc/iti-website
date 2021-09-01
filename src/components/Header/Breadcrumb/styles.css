@@ -1,0 +1,17 @@
+ul.breadcrumb {
+    display: flex;
+    background-color:  #f4f0eb !important;
+    margin-bottom: 0rem !important;
+  }
+  
+  ul.breadcrumb > li + li::before {
+    content: "> ";
+    margin-left: 0.25rem;
+  }
+  
+  .navlink-active {
+    color: black;
+    text-decoration: none;
+    pointer-events: none;
+  }
+  
