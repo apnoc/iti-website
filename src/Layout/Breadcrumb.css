@@ -1,0 +1,21 @@
+.breadcrumbslist {
+  display: flex;
+  background-color: #f4f0eb !important;
+  color: black !important;
+  margin-bottom: 0.5px!important;
+}
+
+
+.navlink-active:nth-child(2) {
+  display: none;
+}
+.navlink-active:nth-child(3) {
+  text-decoration: none;
+  pointer-events: none;
+}
+
+.navlink-active:last-child {
+  color: black !important;
+  text-decoration: none;
+  pointer-events: none;
+}

@@ -3,10 +3,8 @@ import axios from "axios";
 
 axios.interceptors.request.use(
  async config => {
-
  console.log(config);
- return config;
- 
+ return config; 
  },
  error => Promise.reject(error)
 );
@@ -17,8 +15,7 @@ axios.interceptors.response.use((response) => {
  `%c response---> ${response.config.url}`,
  'color: #0086b3; font-weight: bold',
  );
- console.log(response);
- 
+ console.log(response); 
  return response
 })
 
@@ -29,3 +26,5 @@ export default {
  delete: axios.delete,
  create: axios.create,
 };
+
+

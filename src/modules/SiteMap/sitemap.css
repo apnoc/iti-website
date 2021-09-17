@@ -1,0 +1,17 @@
+.list {
+    list-style: none;
+  }
+
+
+.list li {
+    list-style: none;
+}
+
+.list a{
+    color: rgb(0,0,0);
+}
+
+
+.list a:hover{
+    color: rgb(159, 125, 125)
+}
